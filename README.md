@@ -1,5 +1,5 @@
 # Project
-Shopping cart is a website usign responsive web design for online shopping. Users can select the product and the selected items get added to cart.
+Shopping Cart is a website using responsive web design for online shopping. Users can select the product and the selected items get added to cart.
 User can see the selected items in cart.
 
 ## Getting Started
